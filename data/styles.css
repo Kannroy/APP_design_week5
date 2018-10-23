@@ -81,6 +81,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -101,4 +103,6 @@
 .table_cell {
 }
 .icon {
+}
+.flow_shape {
 }
